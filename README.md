@@ -1,6 +1,6 @@
-# crash-and-burn
+# Crash-and-Burn
 
-Raddical Blasters is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effects, and locally stored stats.
+Crash and Burn is a space themed shoot 'em up where you must blast away unrelenting enemies before they destroy you. The game features 13 enemy types, 5 powerups, parallax backgrounds, retro sound effects, and locally stored stats.
 
 **Final Size:** 13,278 bytes
 
@@ -13,5 +13,4 @@ Raddical Blasters is a space themed shoot 'em up where you must blast away unrel
 **Mute:** M
 
 # Notes #
-I hate having to say this, but from my testing, if you are not running the game in Chrome... you're gonna have a bad time. It works in other browsers, but the frame rate is just not high enough. I didn't want to sacrifice any visuals for this one. Early on, I decided I would rather have it look and play better in one browser than look ok and play ok in many browsers. It is just the state of the games in browsers at the moment and I am ok with it.
-
+From my testing of the game, Google Chrome is the best browser to run the game. It doesn't work nearly as well on other browsers and because of the time constraints, I couldn't optimize my code for different web browsers.
