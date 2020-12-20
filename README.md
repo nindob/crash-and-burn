@@ -6,11 +6,6 @@ Crash and Burn is a space themed shoot 'em up where you must blast away unrelent
 
 # Controls #
 ![Alt text](/images/game.png "Game Controls")
-**Move:** WASD/Arrows  
-**Aim/Fire:** Mouse  
-**Autofire:** F  
-**Pause:** P  
-**Mute:** M
 
 # Notes #
 From my testing of the game, Google Chrome is the best browser to run the game. It doesn't work nearly as well on other browsers and because of the time constraints, I couldn't optimize my code for different web browsers.
